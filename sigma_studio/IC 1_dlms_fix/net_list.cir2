@@ -1,0 +1,39 @@
+0 ICSigma100In1 O_C28_A0_P1_out Link18 O_C28_A0_P2_out Link25
+1 Gain1940AlgNS2 I_C42_A0_P1_in Link18 O_C42_A0_P2_out Link17
+2 Gain1940AlgNS1 I_C120_A0_P1_in Link25 O_C120_A0_P2_out Link0
+3 DCBlockAlgDoublePrec2 I_C26_A0_P1_in Link0 O_C26_A0_P2_out Link20
+4 DCBlockAlgDoublePrec1 I_C45_A0_P1_in Link17 O_C45_A0_P2_out Link19
+5 PEQ1Chan_SinglePrec1 I_C117_A0_P1_in Link19 O_C117_A0_P2_out Link34
+6 PEQ1Chan_SinglePrec2 I_C24_A0_P1_in Link20 O_C24_A0_P2_out Link35
+7 monomux1940ns1 I_C142_A0_P2_in Link34 I_C142_A0_P3_in Link35 O_C142_A0_P1_out Link1
+8 monomux1940ns2 I_C148_A0_P2_in Link34 I_C148_A0_P3_in Link35 O_C148_A0_P1_out Link10
+9 monomux1940ns3 I_C154_A0_P2_in Link34 I_C154_A0_P3_in Link35 O_C154_A0_P1_out Link13
+10 monomux1940ns4 I_C160_A0_P2_in Link34 I_C160_A0_P3_in Link35 O_C160_A0_P1_out Link16
+11 EQ1940Invert1 I_C66_A0_P1_in Link1 O_C66_A0_P2_out Link3
+12 EQ1940Invert2 I_C259_A0_P1_in Link10 O_C259_A0_P2_out Link8
+13 EQ1940Invert3 I_C288_A0_P1_in Link13 O_C288_A0_P2_out Link11
+14 EQ1940Invert4 I_C317_A0_P1_in Link16 O_C317_A0_P2_out Link14
+15 Gain1940AlgNS3 I_C240_A0_P1_in Link3 O_C240_A0_P2_out Link4
+16 Gain1940AlgNS4 I_C268_A0_P1_in Link8 O_C268_A0_P2_out Link7
+17 Gain1940AlgNS5 I_C297_A0_P1_in Link11 O_C297_A0_P2_out Link12
+18 Gain1940AlgNS6 I_C326_A0_P1_in Link14 O_C326_A0_P2_out Link15
+19 DCBlockAlgDoublePrec3 I_C245_A0_P1_in Link4 O_C245_A0_P2_out Link5
+20 DCBlockAlgDoublePrec4 I_C271_A0_P1_in Link7 O_C271_A0_P2_out Link9
+21 DCBlockAlgDoublePrec5 I_C300_A0_P1_in Link12 O_C300_A0_P2_out Link23
+22 DCBlockAlgDoublePrec6 I_C329_A0_P1_in Link15 O_C329_A0_P2_out Link22
+23 EQ1940Single2 I_C97_A0_P1_in Link5 O_C97_A0_P2_out Link2
+24 EQ1940Single4 I_C262_A0_P1_in Link9 O_C262_A0_P2_out Link6
+25 EQ1940Single6 I_C291_A0_P1_in Link22 O_C291_A0_P2_out Link21
+26 EQ1940Single8 I_C320_A0_P1_in Link23 O_C320_A0_P2_out Link24
+27 EQ1940Single3 I_C104_A0_P1_in Link2 O_C104_A0_P2_out Link26
+28 EQ1940Single5 I_C265_A0_P1_in Link6 O_C265_A0_P2_out Link28
+29 EQ1940Single9 I_C323_A0_P1_in Link21 O_C323_A0_P2_out Link32
+30 EQ1940Single7 I_C294_A0_P1_in Link24 O_C294_A0_P2_out Link30
+31 MonoNoPostGainNoHoldNoDelay1 I_C0_A0_P1_in Link26 O_C0_A0_P2_out Link27
+32 MonoNoPostGainNoHoldNoDelay2 I_C12_A0_P1_in Link28 O_C12_A0_P2_out Link29
+33 MonoNoPostGainNoHoldNoDelay3 I_C19_A0_P1_in Link30 O_C19_A0_P2_out Link31
+34 MonoNoPostGainNoHoldNoDelay4 I_C53_A0_P1_in Link32 O_C53_A0_P2_out Link33
+35 ICSigma100Out1 I_C39_A0_P1_in Link27
+36 ICSigma100Out2 I_C257_A0_P1_in Link29
+37 ICSigma100Out3 I_C286_A0_P1_in Link31
+38 ICSigma100Out4 I_C315_A0_P1_in Link33

@@ -1,0 +1,5 @@
+rotary_encoder.c:19:8:encoder_read	8	static
+rotary_encoder.c:37:6:encoder_handler	32	static
+rotary_encoder.c:44:6:encoder_change	16	static
+rotary_encoder.c:50:6:encoder_push	8	static
+rotary_encoder.c:63:6:encoder_adaptive_handler	32	static

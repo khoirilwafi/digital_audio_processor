@@ -1,0 +1,10 @@
+dsp_processor.c:10:9:dsp_spi	32	static
+dsp_processor.c:17:6:dsp_begin	24	static
+dsp_processor.c:30:6:dsp_load_data	32	static
+dsp_processor.c:51:6:dsp_read_data	40	static
+dsp_processor.c:72:6:dsp_mute	24	static
+dsp_processor.c:91:6:dsp_unmute	24	static
+dsp_processor.c:110:6:dsp_load_address	24	static
+dsp_processor.c:129:6:dsp_load_parameter	24	static
+dsp_processor.c:152:6:dsp_safe_flag	24	static
+dsp_processor.c:171:19:dsp_check_connection	24	static

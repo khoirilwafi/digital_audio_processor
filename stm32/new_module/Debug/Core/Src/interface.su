@@ -1,0 +1,13 @@
+interface.c:35:6:interface_begin	8	static
+interface.c:42:6:led_mute	16	static
+interface.c:70:6:led_sel	16	static
+interface.c:90:9:baca_tombol	16	static
+interface.c:109:6:tampil_parametrik	24	static
+interface.c:133:6:tampil_crossover	16	static
+interface.c:194:6:page1	48	static
+interface.c:329:6:page2	40	static
+interface.c:548:6:interface_welcome	16	static
+interface.c:573:6:loading_procedure	152	static
+interface.c:643:6:upload_parameter_float	48	static
+interface.c:754:6:save_parameter	16	static
+interface.c:786:6:reset_parameter	4120	static

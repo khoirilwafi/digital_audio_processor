@@ -1,0 +1,2 @@
+time_delay.c:5:6:time_begin	16	static
+time_delay.c:11:6:delay_us	16	static

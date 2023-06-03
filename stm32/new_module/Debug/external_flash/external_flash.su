@@ -1,0 +1,12 @@
+external_flash.c:10:6:flash_begin	16	static
+external_flash.c:15:9:flash_spi	32	static
+external_flash.c:23:6:flash_write_enable	8	static
+external_flash.c:31:6:flash_write_disable	8	static
+external_flash.c:39:6:flash_wait_end	16	static
+external_flash.c:58:9:flash_read_byte	24	static
+external_flash.c:79:6:flash_write_byte	16	static
+external_flash.c:100:6:flash_erase_sector	16	static
+external_flash.c:121:6:flash_erase_block	16	static
+external_flash.c:141:10:flash_read_id	16	static
+external_flash.c:160:10:flash_read_uid	56	static
+external_flash.c:184:6:flash_reset	8	static

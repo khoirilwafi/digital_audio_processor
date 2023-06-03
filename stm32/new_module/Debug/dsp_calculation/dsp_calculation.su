@@ -1,0 +1,8 @@
+dsp_calculation.c:7:10:ubah_ke_523	32	static
+dsp_calculation.c:24:10:ubah_ke_hex	32	static
+dsp_calculation.c:44:7:ubah_ke_float	32	static
+dsp_calculation.c:62:10:hitung_gain	24	static
+dsp_calculation.c:68:6:hitung_limiter	48	static
+dsp_calculation.c:90:6:hitung_peq	32	static
+dsp_calculation.c:124:6:hitung_lpf	48	static
+dsp_calculation.c:168:6:hitung_hpf	64	static
